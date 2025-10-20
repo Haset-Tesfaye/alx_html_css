@@ -1,4 +1,7 @@
 body {
+    font-family: 'Arial', sans-serif;
+    color: #222;
+    background-color: aquamarine;
   display: flex;
   flex-direction: column;
 }
